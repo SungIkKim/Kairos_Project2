@@ -29,5 +29,5 @@
 
 ### 프로젝트 2 시연 영상
 
-<iframe width="560" height="315" src="https://youtu.be/ESS8nJtRiGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ESS8nJtRiGk/0.jpg)](https://youtu.be/ESS8nJtRiGk)
 
