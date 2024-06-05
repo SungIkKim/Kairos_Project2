@@ -27,6 +27,7 @@
 - 평가 기준, 배점, 규격, 길이, 각도 등 5분마다 다를 수 있음(평가자 별도 기준)
 - 채점 기준: 담당 강사 1인, 운영기관 직원 1인 총 2인으로 구성
 
-### 프로젝트 2 예시(블록) 사진
+### 프로젝트 2 시연 영상
 
-![프로젝트 2 예시(블록) 사진](file-twt2v8eNGWXhO7zrR8KXMo7V)
+<iframe width="560" height="315" src="https://youtu.be/ESS8nJtRiGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
